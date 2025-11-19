@@ -16,4 +16,5 @@ int main() {
         default:
             printf("Invalid input. Please enter 0 or 1.\n");
             break;
+        return 0;
     }
